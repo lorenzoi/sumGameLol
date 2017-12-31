@@ -1,7 +1,7 @@
 #include <iostream>
-#include "SDL.h"
+#include "window.hh"
 
 int main()
 {
-  
+  SDLWindowLoop();
 }
